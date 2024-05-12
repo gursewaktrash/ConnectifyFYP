@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="org.connectifyhk.connectify_fyp.SignUpActivity"
+    android:background="#f8f9fa"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        app:srcCompat="@drawable/datingpic2" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/label_sign_up"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="15dp"
+        android:inputType="text"
+        android:background="@color/colorTextBackground"
+        android:fontFamily="sans-serif-light"
+        android:hint="@string/enter_name"
+        android:padding="12dp"
+        android:textColor="@color/colorDarkgrey" />
+
+      <EditText
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="15dp"
+          android:layout_marginEnd="15dp"
+          android:layout_marginTop="5dp"
+          android:inputType="textEmailAddress"
+          android:padding="12dp"
+          android:textColor="@color/colorDarkgrey"
+          android:background="@color/colorTextBackground"
+          android:fontFamily="sans-serif-light"
+          android:hint="@string/enter_email"
+          android:id="@+id/etEmail"/>
+
+
+      <EditText
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="15dp"
+          android:layout_marginEnd="15dp"
+          android:layout_marginTop="5dp"
+          android:padding="12dp"
+          android:inputType="textPassword"
+          android:textColor="@color/colorDarkgrey"
+          android:background="@color/colorTextBackground"
+          android:fontFamily="sans-serif-light"
+          android:hint="@string/enter_password"
+          android:id="@+id/etPassword"/>
+
+
+      <EditText
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginStart="15dp"
+          android:layout_marginEnd="15dp"
+          android:layout_marginTop="5dp"
+          android:padding="12dp"
+          android:inputType="textPassword"
+          android:textColor="@color/colorDarkgrey"
+          android:background="@color/colorTextBackground"
+          android:hint="@string/enter_confirm_password"
+          android:fontFamily="sans-serif-light"
+          android:id="@+id/etConPassword"/>
+
+    <Button
+        android:id="@+id/btnSignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:layout_marginEnd="2dp"
+        android:text="@string/btn_sign_up"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:backgroundTint="@color/colorDarkgrey"
+        android:text="@string/btn_login"
+        android:textColor="@color/white"/>
+
+
+
+</LinearLayout>
+
+
+
+
+

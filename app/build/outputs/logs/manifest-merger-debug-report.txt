@@ -1,0 +1,810 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/448c7975c43a7e5ef099f4ae155bc6b2/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/32460cf1f05fd1d640db83825eaeb671/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/285cc5cb53604892c8851fb609534bd6/jetified-CircularImageView-1.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8602c2f677dbc61cac20155eaf71d2f2/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-core:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f2dcb512761cd44de35e42cc40a2b626/jetified-firebase-core-18.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:17:1-45:12
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0945984fee2d7e657518671b734fe782/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bf2b3f29fde61d4f0090ede0324a147a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0a22b2f013206f0880ed2eee9b4f71fa/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/13f66d96bebc6adf18da4aed8eae6f8c/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/85aa47ffa2a9ad35b8f8749d5844a8b9/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8d13dd5543c4f9545cd76065cba78f8d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/86d9e2a358e7ac9239eecd52c53429cb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea109025e594e84f7623a556e537387b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/26feaab916d7805146be4625e87a9ce6/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ebe3b4120a5e9f35d6b7ab29e6e37461/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d843b98a22f7e9629e96d7fe991c3827/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/04ba0a250b41849bb632c16d66f37b87/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c1a4fe23393d94f8541a18f7d0e9c19a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7cc2f3d46a341e2900a962eaa5d0c57f/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/25370f37b1ff5853277d6e4d9fa0a3d6/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7f7f541beb37cb0dba750894066e7ffb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8e10f2e0d9977dcd8b29545b1714b0bc/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/96e7c507d28b718051bebdb18d7501b1/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/66c2010098c6ac03ed08d55be8cee3ac/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/74b0fb2af9ec5d538d8f92c39dfffe3e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b955246e67978166514199c61ca1e7c0/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/59e1bc1c7e8bf5fb35cb8e7da976b5ac/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/cee1c80cbbe30bfb6b52876ca0140076/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/270d210b0fa51579aa954df2841be318/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e455fb8beb31f52047ade5782deea9cd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e18984624d2b09abd97a7fcca0815ace/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a449c84d46ebed1a3f165a035bbb7067/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a9178716f3c5742594affe45e19f745a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/75528a08694e76ca5f558bc9bd522f27/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17b15ceef050313931e042ae557d293a/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d7e2fa7b68cdf669d98c11b74ab8f58/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/947cbf0ba18e0fc407cc277f6c3cea95/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d6c64f81a9185bd600ccc475642f867/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/faf44a821fb3e570c8159de0afe335a7/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c6b912de357e73bf3fb02708876eafda/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7bdd65300a9926cc2da20ae7efb3c5eb/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5b2f0d609e3f6517cc3bfc243bc4fe26/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/132cd014204ad5997b8131d168774853/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/288a583f29ece4f3feb6bac082958a97/jetified-firebase-components-16.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ba773c10a7b1fbeb3b2c061a50ccb7c8/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/95ca676cc44fe34b2f324b8b64611c5b/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/53e41922dd9bd3c9df517a27082fbb6d/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b1b2d2537d6dc34c81e968c394d84c3f/jetified-transport-api-2.2.1/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d6ed592c31730a0a6e86b4476af6003a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d4a4ebaca8a48543a8c5d1e120b37d2f/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/24342bf49f4e86352fc41f8137ea5dad/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bb3098949f5d321e84e94d4723d6df49/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/eb9a7ce6996e6c0cd744753be3a452ba/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5d9e12b6cca0bd36112815c154ca2dbb/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/108c8e9d9c3ba455aa793ffe16e66be4/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a58f4283dfb58dbe855b89cc9e87bbb0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9754004b8f64e47f512d4e68a87f422b/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/2f0c5bae3ac8a066392ff9fab8dc3b35/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bc92bfbf721808de445a4ad590ad17c7/jetified-grpc-android-1.28.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/84cd0389a3f6e756176c10a468f53c1c/jetified-protolite-well-known-types-17.1.1/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:9:5-55:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/448c7975c43a7e5ef099f4ae155bc6b2/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/448c7975c43a7e5ef099f4ae155bc6b2/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/32460cf1f05fd1d640db83825eaeb671/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/32460cf1f05fd1d640db83825eaeb671/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-core:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f2dcb512761cd44de35e42cc40a2b626/jetified-firebase-core-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f2dcb512761cd44de35e42cc40a2b626/jetified-firebase-core-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8d13dd5543c4f9545cd76065cba78f8d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8d13dd5543c4f9545cd76065cba78f8d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/86d9e2a358e7ac9239eecd52c53429cb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/86d9e2a358e7ac9239eecd52c53429cb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ebe3b4120a5e9f35d6b7ab29e6e37461/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ebe3b4120a5e9f35d6b7ab29e6e37461/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d843b98a22f7e9629e96d7fe991c3827/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d843b98a22f7e9629e96d7fe991c3827/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c1a4fe23393d94f8541a18f7d0e9c19a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c1a4fe23393d94f8541a18f7d0e9c19a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7cc2f3d46a341e2900a962eaa5d0c57f/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7cc2f3d46a341e2900a962eaa5d0c57f/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/25370f37b1ff5853277d6e4d9fa0a3d6/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/25370f37b1ff5853277d6e4d9fa0a3d6/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7f7f541beb37cb0dba750894066e7ffb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7f7f541beb37cb0dba750894066e7ffb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8e10f2e0d9977dcd8b29545b1714b0bc/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8e10f2e0d9977dcd8b29545b1714b0bc/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/96e7c507d28b718051bebdb18d7501b1/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/96e7c507d28b718051bebdb18d7501b1/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:28:5-36:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/53e41922dd9bd3c9df517a27082fbb6d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/53e41922dd9bd3c9df517a27082fbb6d/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:15:9-51
+activity#org.connectifyhk.connectify_fyp.ShowProfile
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:16:9-17:43
+	android:label
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:17:13-41
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:16:19-77
+activity#org.connectifyhk.connectify_fyp.ForgotPassword
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:18:9-83
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:18:19-80
+activity#org.connectifyhk.connectify_fyp.ChatActivity
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:19:9-21:49
+	android:theme
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:21:13-46
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:20:13-72
+activity#org.connectifyhk.connectify_fyp.LoginActivity
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:22:9-24:37
+	android:label
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:24:13-34
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:23:13-73
+activity#org.connectifyhk.connectify_fyp.DashboardActivity
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:25:9-27:36
+	android:label
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:26:13-77
+activity#org.connectifyhk.connectify_fyp.SignUpActivity
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:28:9-30:39
+	android:label
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:29:13-74
+activity#org.connectifyhk.connectify_fyp.MainActivity
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:31:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:35:27-74
+service#org.connectifyhk.connectify_fyp.notifications.FirebaseService
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:39:9-46:19
+	android:enabled
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:40:13-89
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_SERVICE
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:43:13-45:29
+action#com.google.firebase.INSTANCE_ID_SERVICE
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:44:25-79
+service#org.connectifyhk.connectify_fyp.notifications.FirebaseMessaging
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:47:9-54:19
+	android:enabled
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:48:13-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:51:13-53:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml:52:25-75
+uses-sdk
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/448c7975c43a7e5ef099f4ae155bc6b2/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/448c7975c43a7e5ef099f4ae155bc6b2/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/32460cf1f05fd1d640db83825eaeb671/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/32460cf1f05fd1d640db83825eaeb671/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/285cc5cb53604892c8851fb609534bd6/jetified-CircularImageView-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mohammadatif:CircularImageView:1.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/285cc5cb53604892c8851fb609534bd6/jetified-CircularImageView-1.0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8602c2f677dbc61cac20155eaf71d2f2/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8602c2f677dbc61cac20155eaf71d2f2/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f2dcb512761cd44de35e42cc40a2b626/jetified-firebase-core-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f2dcb512761cd44de35e42cc40a2b626/jetified-firebase-core-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0945984fee2d7e657518671b734fe782/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0945984fee2d7e657518671b734fe782/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bf2b3f29fde61d4f0090ede0324a147a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bf2b3f29fde61d4f0090ede0324a147a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0a22b2f013206f0880ed2eee9b4f71fa/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0a22b2f013206f0880ed2eee9b4f71fa/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/13f66d96bebc6adf18da4aed8eae6f8c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/13f66d96bebc6adf18da4aed8eae6f8c/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/85aa47ffa2a9ad35b8f8749d5844a8b9/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/85aa47ffa2a9ad35b8f8749d5844a8b9/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8d13dd5543c4f9545cd76065cba78f8d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8d13dd5543c4f9545cd76065cba78f8d/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/86d9e2a358e7ac9239eecd52c53429cb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/86d9e2a358e7ac9239eecd52c53429cb/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea109025e594e84f7623a556e537387b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea109025e594e84f7623a556e537387b/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/26feaab916d7805146be4625e87a9ce6/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/26feaab916d7805146be4625e87a9ce6/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ebe3b4120a5e9f35d6b7ab29e6e37461/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ebe3b4120a5e9f35d6b7ab29e6e37461/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d843b98a22f7e9629e96d7fe991c3827/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d843b98a22f7e9629e96d7fe991c3827/jetified-firebase-analytics-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/04ba0a250b41849bb632c16d66f37b87/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/04ba0a250b41849bb632c16d66f37b87/jetified-firebase-installations-interop-16.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c1a4fe23393d94f8541a18f7d0e9c19a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c1a4fe23393d94f8541a18f7d0e9c19a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7cc2f3d46a341e2900a962eaa5d0c57f/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7cc2f3d46a341e2900a962eaa5d0c57f/jetified-play-services-measurement-sdk-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/25370f37b1ff5853277d6e4d9fa0a3d6/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/25370f37b1ff5853277d6e4d9fa0a3d6/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7f7f541beb37cb0dba750894066e7ffb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7f7f541beb37cb0dba750894066e7ffb/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8e10f2e0d9977dcd8b29545b1714b0bc/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/8e10f2e0d9977dcd8b29545b1714b0bc/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/96e7c507d28b718051bebdb18d7501b1/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/96e7c507d28b718051bebdb18d7501b1/jetified-play-services-measurement-base-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/66c2010098c6ac03ed08d55be8cee3ac/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/66c2010098c6ac03ed08d55be8cee3ac/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/74b0fb2af9ec5d538d8f92c39dfffe3e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/74b0fb2af9ec5d538d8f92c39dfffe3e/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b955246e67978166514199c61ca1e7c0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b955246e67978166514199c61ca1e7c0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/59e1bc1c7e8bf5fb35cb8e7da976b5ac/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/59e1bc1c7e8bf5fb35cb8e7da976b5ac/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/cee1c80cbbe30bfb6b52876ca0140076/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/cee1c80cbbe30bfb6b52876ca0140076/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/270d210b0fa51579aa954df2841be318/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/270d210b0fa51579aa954df2841be318/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e455fb8beb31f52047ade5782deea9cd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e455fb8beb31f52047ade5782deea9cd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e18984624d2b09abd97a7fcca0815ace/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e18984624d2b09abd97a7fcca0815ace/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a449c84d46ebed1a3f165a035bbb7067/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a449c84d46ebed1a3f165a035bbb7067/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a9178716f3c5742594affe45e19f745a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a9178716f3c5742594affe45e19f745a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/75528a08694e76ca5f558bc9bd522f27/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/75528a08694e76ca5f558bc9bd522f27/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17b15ceef050313931e042ae557d293a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17b15ceef050313931e042ae557d293a/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d7e2fa7b68cdf669d98c11b74ab8f58/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d7e2fa7b68cdf669d98c11b74ab8f58/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/947cbf0ba18e0fc407cc277f6c3cea95/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/947cbf0ba18e0fc407cc277f6c3cea95/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d6c64f81a9185bd600ccc475642f867/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7d6c64f81a9185bd600ccc475642f867/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/faf44a821fb3e570c8159de0afe335a7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/faf44a821fb3e570c8159de0afe335a7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c6b912de357e73bf3fb02708876eafda/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c6b912de357e73bf3fb02708876eafda/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7bdd65300a9926cc2da20ae7efb3c5eb/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7bdd65300a9926cc2da20ae7efb3c5eb/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5b2f0d609e3f6517cc3bfc243bc4fe26/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5b2f0d609e3f6517cc3bfc243bc4fe26/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a62804a47368eb7ab7c7a621c89cad6f/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/132cd014204ad5997b8131d168774853/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/132cd014204ad5997b8131d168774853/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/288a583f29ece4f3feb6bac082958a97/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/288a583f29ece4f3feb6bac082958a97/jetified-firebase-components-16.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ba773c10a7b1fbeb3b2c061a50ccb7c8/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ba773c10a7b1fbeb3b2c061a50ccb7c8/jetified-firebase-encoders-json-17.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/95ca676cc44fe34b2f324b8b64611c5b/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/95ca676cc44fe34b2f324b8b64611c5b/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/53e41922dd9bd3c9df517a27082fbb6d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/53e41922dd9bd3c9df517a27082fbb6d/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b1b2d2537d6dc34c81e968c394d84c3f/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b1b2d2537d6dc34c81e968c394d84c3f/jetified-transport-api-2.2.1/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d6ed592c31730a0a6e86b4476af6003a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d6ed592c31730a0a6e86b4476af6003a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d4a4ebaca8a48543a8c5d1e120b37d2f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d4a4ebaca8a48543a8c5d1e120b37d2f/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/24342bf49f4e86352fc41f8137ea5dad/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/24342bf49f4e86352fc41f8137ea5dad/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bb3098949f5d321e84e94d4723d6df49/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bb3098949f5d321e84e94d4723d6df49/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/eb9a7ce6996e6c0cd744753be3a452ba/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/eb9a7ce6996e6c0cd744753be3a452ba/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5d9e12b6cca0bd36112815c154ca2dbb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/5d9e12b6cca0bd36112815c154ca2dbb/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/108c8e9d9c3ba455aa793ffe16e66be4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/108c8e9d9c3ba455aa793ffe16e66be4/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a58f4283dfb58dbe855b89cc9e87bbb0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/a58f4283dfb58dbe855b89cc9e87bbb0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9754004b8f64e47f512d4e68a87f422b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9754004b8f64e47f512d4e68a87f422b/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/2f0c5bae3ac8a066392ff9fab8dc3b35/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/2f0c5bae3ac8a066392ff9fab8dc3b35/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bc92bfbf721808de445a4ad590ad17c7/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bc92bfbf721808de445a4ad590ad17c7/jetified-grpc-android-1.28.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/84cd0389a3f6e756176c10a468f53c1c/jetified-protolite-well-known-types-17.1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/84cd0389a3f6e756176c10a468f53c1c/jetified-protolite-well-known-types-17.1.1/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ihatehoney/Desktop/MY APPS/ConnectifyFYP/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bc92bfbf721808de445a4ad590ad17c7/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/bc92bfbf721808de445a4ad590ad17c7/jetified-grpc-android-1.28.0/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:69:25-86
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:75:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d24943fa84e0749ae47cfcd3f42f275f/jetified-firebase-auth-20.0.2/AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.6.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/d0caf471e809d508f85180a8825b3244/jetified-firebase-database-19.6.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/17994f790f1ceb6e42ee4d21f7940c32/jetified-firebase-storage-19.2.1/AndroidManifest.xml:34:17-107
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/9b0fb84d08a4e8f0dd84f32345f0e375/jetified-firebase-messaging-21.0.1/AndroidManifest.xml:40:17-119
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:19.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/915ebe72320b555db6548ae7bc8da44d/jetified-play-services-auth-19.0.0/AndroidManifest.xml:34:13-89
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0bbbfd6645e69d4b229033905c8d4808/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/b720988cd8b573d6be86cb54f700c704/jetified-firebase-firestore-22.1.0/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/f4c1ef76937a15c823f97aa6b53d6cc7/jetified-play-services-measurement-sdk-api-18.0.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/37f904ca6a3272409022f22d22b43ac3/jetified-play-services-cloud-messaging-16.0.0/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:21.0.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/99b3a5dba59480a1641c437af4b4cb76/jetified-firebase-iid-21.0.1/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/0b51e261c3d6b16a7e1190585a252a55/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.10] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/61254bc85ac22d81c95bdc5a93aca644/jetified-firebase-datatransport-17.0.10/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/e086a3c900bf0087a465146b192073e9/jetified-play-services-measurement-api-18.0.2/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/645bd2d7959408434d61553274a34784/jetified-firebase-installations-16.3.5/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/7972834fc9a3de8dd20c85e62bfc7997/jetified-firebase-common-19.5.0/AndroidManifest.xml:44:17-121
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/03c7adf571284aa3c398a225efec96af/jetified-play-services-measurement-impl-18.0.2/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:18.0.2] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ef9def50a6ec639b07be697303b2b8ce/jetified-play-services-measurement-18.0.2/AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.1] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/ea032b517a5954dacb08e2dcade0980b/jetified-play-services-basement-17.1.1/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/02f0b750340f7230f6a0cfcd43e7bda8/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.5] /Users/ihatehoney/.gradle/caches/transforms-2/files-2.1/c935b937897adf4d4cae6f6d9fdb956f/jetified-transport-runtime-2.2.5/AndroidManifest.xml:33:13-132

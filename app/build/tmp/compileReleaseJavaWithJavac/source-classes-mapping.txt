@@ -1,0 +1,126 @@
+org/connectifyhk/connectify_fyp/LoginActivity.java
+ org.connectifyhk.connectify_fyp.LoginActivity
+ org.connectifyhk.connectify_fyp.LoginActivity$1
+ org.connectifyhk.connectify_fyp.LoginActivity$2
+ org.connectifyhk.connectify_fyp.LoginActivity$3
+ org.connectifyhk.connectify_fyp.LoginActivity$4
+ org.connectifyhk.connectify_fyp.LoginActivity$5
+org/connectifyhk/connectify_fyp/notifications/Token.java
+ org.connectifyhk.connectify_fyp.notifications.Token
+org/connectifyhk/connectify_fyp/models/ModelUser.java
+ org.connectifyhk.connectify_fyp.models.ModelUser
+org/connectifyhk/connectify_fyp/notifications/Client.java
+ org.connectifyhk.connectify_fyp.notifications.Client
+org/connectifyhk/connectify_fyp/BuildConfig.java
+ org.connectifyhk.connectify_fyp.BuildConfig
+org/connectifyhk/connectify_fyp/models/ModelChat.java
+ org.connectifyhk.connectify_fyp.models.ModelChat
+org/connectifyhk/connectify_fyp/fragment_chatslist.java
+ org.connectifyhk.connectify_fyp.fragment_chatslist
+ org.connectifyhk.connectify_fyp.fragment_chatslist$1
+ org.connectifyhk.connectify_fyp.fragment_chatslist$2
+ org.connectifyhk.connectify_fyp.fragment_chatslist$3
+org/connectifyhk/connectify_fyp/ShowProfile.java
+ org.connectifyhk.connectify_fyp.ShowProfile
+ org.connectifyhk.connectify_fyp.ShowProfile$1
+org/connectifyhk/connectify_fyp/notifications/Sender.java
+ org.connectifyhk.connectify_fyp.notifications.Sender
+org/connectifyhk/connectify_fyp/DashboardActivity.java
+ org.connectifyhk.connectify_fyp.DashboardActivity
+ org.connectifyhk.connectify_fyp.DashboardActivity$1
+org/connectifyhk/connectify_fyp/MainActivity.java
+ org.connectifyhk.connectify_fyp.MainActivity
+ org.connectifyhk.connectify_fyp.MainActivity$1
+org/connectifyhk/connectify_fyp/ChatActivity.java
+ org.connectifyhk.connectify_fyp.ChatActivity
+ org.connectifyhk.connectify_fyp.ChatActivity$1
+ org.connectifyhk.connectify_fyp.ChatActivity$10
+ org.connectifyhk.connectify_fyp.ChatActivity$11
+ org.connectifyhk.connectify_fyp.ChatActivity$12
+ org.connectifyhk.connectify_fyp.ChatActivity$12$1
+ org.connectifyhk.connectify_fyp.ChatActivity$12$2
+ org.connectifyhk.connectify_fyp.ChatActivity$12$3
+ org.connectifyhk.connectify_fyp.ChatActivity$13
+ org.connectifyhk.connectify_fyp.ChatActivity$13$1
+ org.connectifyhk.connectify_fyp.ChatActivity$2
+ org.connectifyhk.connectify_fyp.ChatActivity$3
+ org.connectifyhk.connectify_fyp.ChatActivity$4
+ org.connectifyhk.connectify_fyp.ChatActivity$5
+ org.connectifyhk.connectify_fyp.ChatActivity$6
+ org.connectifyhk.connectify_fyp.ChatActivity$7
+ org.connectifyhk.connectify_fyp.ChatActivity$8
+ org.connectifyhk.connectify_fyp.ChatActivity$9
+org/connectifyhk/connectify_fyp/fragment_profile.java
+ org.connectifyhk.connectify_fyp.fragment_profile
+ org.connectifyhk.connectify_fyp.fragment_profile$1
+ org.connectifyhk.connectify_fyp.fragment_profile$10
+ org.connectifyhk.connectify_fyp.fragment_profile$11
+ org.connectifyhk.connectify_fyp.fragment_profile$11$1
+ org.connectifyhk.connectify_fyp.fragment_profile$11$2
+ org.connectifyhk.connectify_fyp.fragment_profile$12
+ org.connectifyhk.connectify_fyp.fragment_profile$13
+ org.connectifyhk.connectify_fyp.fragment_profile$13$1
+ org.connectifyhk.connectify_fyp.fragment_profile$13$2
+ org.connectifyhk.connectify_fyp.fragment_profile$14
+ org.connectifyhk.connectify_fyp.fragment_profile$15
+ org.connectifyhk.connectify_fyp.fragment_profile$16
+ org.connectifyhk.connectify_fyp.fragment_profile$16$1
+ org.connectifyhk.connectify_fyp.fragment_profile$16$2
+ org.connectifyhk.connectify_fyp.fragment_profile$2
+ org.connectifyhk.connectify_fyp.fragment_profile$3
+ org.connectifyhk.connectify_fyp.fragment_profile$4
+ org.connectifyhk.connectify_fyp.fragment_profile$5
+ org.connectifyhk.connectify_fyp.fragment_profile$6
+ org.connectifyhk.connectify_fyp.fragment_profile$7
+ org.connectifyhk.connectify_fyp.fragment_profile$7$1
+ org.connectifyhk.connectify_fyp.fragment_profile$7$1$1
+ org.connectifyhk.connectify_fyp.fragment_profile$7$2
+ org.connectifyhk.connectify_fyp.fragment_profile$8
+ org.connectifyhk.connectify_fyp.fragment_profile$9
+ org.connectifyhk.connectify_fyp.fragment_profile$9$1
+ org.connectifyhk.connectify_fyp.fragment_profile$9$2
+org/connectifyhk/connectify_fyp/SignUpActivity.java
+ org.connectifyhk.connectify_fyp.SignUpActivity
+ org.connectifyhk.connectify_fyp.SignUpActivity$1
+ org.connectifyhk.connectify_fyp.SignUpActivity$2
+ org.connectifyhk.connectify_fyp.SignUpActivity$3
+ org.connectifyhk.connectify_fyp.SignUpActivity$4
+org/connectifyhk/connectify_fyp/adapters/AdapterChat.java
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat$1
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat$1$1
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat$1$2
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat$2
+ org.connectifyhk.connectify_fyp.adapters.AdapterChat$MyHolder
+org/connectifyhk/connectify_fyp/notifications/FirebaseService.java
+ org.connectifyhk.connectify_fyp.notifications.FirebaseService
+org/connectifyhk/connectify_fyp/notifications/APIService.java
+ org.connectifyhk.connectify_fyp.notifications.APIService
+org/connectifyhk/connectify_fyp/notifications/FirebaseMessaging.java
+ org.connectifyhk.connectify_fyp.notifications.FirebaseMessaging
+org/connectifyhk/connectify_fyp/notifications/Data.java
+ org.connectifyhk.connectify_fyp.notifications.Data
+org/connectifyhk/connectify_fyp/notifications/Response.java
+ org.connectifyhk.connectify_fyp.notifications.Response
+org/connectifyhk/connectify_fyp/models/ModelChatlist.java
+ org.connectifyhk.connectify_fyp.models.ModelChatlist
+org/connectifyhk/connectify_fyp/adapters/AdapterUsers.java
+ org.connectifyhk.connectify_fyp.adapters.AdapterUsers
+ org.connectifyhk.connectify_fyp.adapters.AdapterUsers$1
+ org.connectifyhk.connectify_fyp.adapters.AdapterUsers$1$1
+ org.connectifyhk.connectify_fyp.adapters.AdapterUsers$MyHolder
+org/connectifyhk/connectify_fyp/ForgotPassword.java
+ org.connectifyhk.connectify_fyp.ForgotPassword
+ org.connectifyhk.connectify_fyp.ForgotPassword$1
+ org.connectifyhk.connectify_fyp.ForgotPassword$1$1
+org/connectifyhk/connectify_fyp/notifications/OreoAndAboveNotification.java
+ org.connectifyhk.connectify_fyp.notifications.OreoAndAboveNotification
+org/connectifyhk/connectify_fyp/adapters/AdapterChatlist.java
+ org.connectifyhk.connectify_fyp.adapters.AdapterChatlist
+ org.connectifyhk.connectify_fyp.adapters.AdapterChatlist$1
+ org.connectifyhk.connectify_fyp.adapters.AdapterChatlist$MyHolder
+org/connectifyhk/connectify_fyp/fragment_users.java
+ org.connectifyhk.connectify_fyp.fragment_users
+ org.connectifyhk.connectify_fyp.fragment_users$1
+ org.connectifyhk.connectify_fyp.fragment_users$2
+ org.connectifyhk.connectify_fyp.fragment_users$3
